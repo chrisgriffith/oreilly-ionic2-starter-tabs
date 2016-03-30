@@ -10,5 +10,5 @@ export class TabsPage {
   // this tells the tabs component which Pages
   // should be each tab's root Page
   tab1Root: any = ParkListPage;
-  tab2Root: any = Page2;
+  tab2Root: any = MapPage;
 }
